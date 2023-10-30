@@ -8,3 +8,21 @@ body,
 html {
   height: 100%;
 }
+
+/* CSS in your style.css file */
+.info.legend {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.info.legend h4 {
+  margin-top: 0;
+  font-size: 16px;
+}
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 5px;
+}
